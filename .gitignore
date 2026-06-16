@@ -1,0 +1,19 @@
+# Archivos compilados
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# Visual Studio Code
+.vscode/
+
+# Archivos de usuario
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Docker
+docker-data/
